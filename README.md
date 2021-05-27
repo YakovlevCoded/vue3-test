@@ -1,4 +1,4 @@
-# hello-world
+# https://vue3-package-test.netlify.app
 
 ## Project setup
 ```
